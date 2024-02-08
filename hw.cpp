@@ -81,7 +81,7 @@ using namespace std;
 
 // Print n no
 
-/*int main()
+int main()
 {
 
     int n ;
@@ -111,4 +111,4 @@ using namespace std;
        i-- ;
     }
     return 0 ;
-}*/
+}
