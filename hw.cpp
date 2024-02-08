@@ -112,8 +112,3 @@ using namespace std;
     }
     return 0 ;
 }*/
-int main(){
-    int a ;
-    int b ;
-    
-}
