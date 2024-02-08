@@ -111,7 +111,7 @@ int main()
        i-- ;
     }
     return 0 ;
-}*/
+}
 int main(){
     int a ;
     int b ;
